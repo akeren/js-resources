@@ -23,7 +23,7 @@
   - [PDF](https://mozilla.github.io/pdf.js/)
   - [ECMAScript 2016 to ES.Next](https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla)
  
-## Support
+## API
 
   - [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-  - [REST API](https://restfulapi.net/http-status-codes/)
+  - [RESTFUL API](https://restfulapi.net/http-status-codes/)
